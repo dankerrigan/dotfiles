@@ -1,0 +1,27 @@
+
+;; ----- smex-history -----
+(
+ cd
+ term
+ comment-region
+ ibuffer
+ emacs-lisp-mode
+ describe-variable
+ turn-on-haskell-doc-mode
+)
+
+;; ----- smex-data -----
+(
+ (sh-electric-here-document-mode . 1)
+ (org-cdlatex-mode . 1)
+ (emacs-lisp-mode . 7)
+ (go-mode . 1)
+ (cd . 6)
+ (common-lisp-mode . 3)
+ (haskell-mode . 1)
+ (turn-on-haskell-doc-mode . 1)
+ (describe-variable . 1)
+ (ibuffer . 1)
+ (comment-region . 1)
+ (term . 1)
+)

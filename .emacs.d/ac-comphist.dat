@@ -1,0 +1,32 @@
+((("gofmt-before-save" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("before-save-hook" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("kbd" .
+   [3 0 0])
+  ("local-set-key" .
+   [2 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("go-mode" .
+   [1 0 0 0 0 0 0])
+  ("turn-on-haskell-indentation" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("turn-on-haskell-doc" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("turn-on-haskell-indent" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("quote" .
+   [1 0 0 0 0])
+  ("lambda" .
+   [3 0 0 0 0 0])
+  ("add-hook" .
+   [5 0 0 0 0 0 0 0])
+  ("haskell-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 1])
+  ("auto-mode-alist" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("haskell-mode-hook" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("turn-on-haskell-doc-mode" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))

@@ -1,0 +1,93 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_provision/" . "tasks/")
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_provision/" . "tasks/")
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_package/" . "tasks/")
+ ("/Users/dankerrigan/projects/luminal-infrastructure/" . "roles/")
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_package/" . "tasks/")
+ ("/Users/dankerrigan/build_artifacts/" . "bvt/")
+ ("/Users/dankerrigan/" . "build_artifacts/")
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/" . "testing_provision/")
+ ("/Users/dankerrigan/projects/scratch/" . "haskell/")
+ ("/Users/dankerrigan/projects/" . "luminal-infrastructure/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/dankerrigan/.emacs.d/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_provision/tasks/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_provision/tasks/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_package/tasks/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/fugued/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_package/tasks/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_run/tasks/"
+ "/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_run/files/"
+ "/Users/dankerrigan/projects/scratch/haskell/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "main.yml"
+ "testing_create.yml"
+ "vars.lw"
+ "testing_run.yml"
+ "intepret_test_results.py"
+ "state_colors.hs"
+ "all_even.hs"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/dankerrigan/.emacs.d/" (21751 23309 0 0) "vendor/" "var/" "places" "init.el~" "init.el" "ido.last~" "ido.last" "elpa/" "auto-save-list/" "ac-comphist.dat" ".smex-items" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_provision/tasks/" (21751 33642 0 0) "main.yml" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_provision/" (21715 48625 0 0) "tasks/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_package/tasks/" (21751 30508 0 0) "main.yml" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_provision/tasks/" (21715 48625 0 0) "main.yml" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_provision/files/" (21715 48625 0 0) "s3-log-rotation/" "beaver.init" "beaver.conf" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_provision/" (21715 48625 0 0) "tasks/" "files/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_package/" (21715 48625 0 0) "tasks/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/fugued/" (21751 17753 0 0) "windows_section.lw" "vars.lw" "ubuntu_section.lw" "testing_section.lw" "testing_instance.lw" "linux_network.lw" "jenkins_section.lw" "jenkins_network.lw" "jenkins_ingress_rule.lw" "jenkins.lw" "fugue_cli_windows_build.lw" "fugue_cli_linux_build.lw" "fugue.lw" "dyn_build_inventory.py" "defaults.lw" "conductor_build.lw" "cli.log" "awslinux_section.lw" "all_build.lw" "admin_ingress_rule.lw" ".fugue" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_run/tasks/" (21751 16246 0 0) "main.yml" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_package/tasks/" (21741 65494 0 0) "main.yml" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/conductor_package/" (21715 48625 0 0) "tasks/" "../" "./")
+
+ ("/Users/dankerrigan/" (21751 13949 0 0) "VirtualBox VMs/" "testing_run.retry" "testing_provision.retry" "testing_package.retry" "testing_create.retry" "scratch.retry" "Public/" "provision.retry" "projects/" "Pictures/" "package_cli_rpm.retry" "org/" "old.emacs.d/" "Music/" "Movies/" "ludwig_windows_build.retry" "ludwig_build.retry" "Library/" "keys/" "jenkins_create.retry" "IdeaProjects/" "Google Drive/" "go/" "fugue_cli_windows_package_aws_adhoc.retry" "fugue_cli_windows_package.retry" "fugue_cli_package_aws_adhoc.retry" "fugue_cli_package.retry" "fugue_cli_osx_package.retry" "fugue_cli_build.retry" "fugue_binary/" "fugue/" "emoji.html" "emacs_cheatsheet" "emacs/" "Downloads/" "dom_env.sh~" "dom_env.sh" "Documents/" "Desktop/" "demo01.retry" "conductor_provision.retry" "conductor_package.retry" "conductor_create_aws_adhoc.retry" "conductor_create_allinone.retry" "conductor_create.retry" "conductor_build.retry" "conductor_ami_aws_adhoc.retry" "conductor_ami.retry" "buildbox_windows_provision.retry" "buildbox_windows_ami.retry" "buildbox_provision.retry" "buildbox_osx_provision.retry" "buildbox_create.retry" "buildbox_ami.retry" "build_artifacts/" "bin/" "Applications/" "amz_env_blank.sh" "amz_env.sh" "52.1.15.230/" ".windows_vault_pass.txt" ".viminfo" ".vim/" ".vagrant.d/" ".Trash/" ".subversion/" ".ssh/" ".s3cfg" ".recentf~" ".recentf" ".python_history" ".pylint.d/" ".PyCharm40/" ".pip/" ".npm/" ".node-gyp/" ".matplotlib/" ".local/" ".lesshst" ".ipython/" ".htoprc" ".gitconfig~" ".gitconfig" ".ghc/" ".gem/" ".fugulse" ".fugue_test" ".fugue_backup" ".fugue" ".emacs.d/" ".DS_Store" ".distlib/" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".cabal/" ".bzr.log" ".brondo_password" ".bower/" ".boot2docker/" ".bash_profile~" ".bash_profile" ".bash_history" ".aws/" ".atom/" ".ansible/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/" (21751 15192 0 0) "write_file_from_b64.ps1" "vars/" "vagrantfiles/" "todo.md" "testing_run.yml" "testing_create_aws_adhoc.yml" "testing_create.yml" "roles/" "README_WINDOWS.md" "README_OSX.md" "README_JENKINS.md" "README.md" "jenkins_setup_keys.yml" "jenkins_create.yml" "inventory/" "group_vars/" "fugued/" "fugue_cli_windows_package_aws_adhoc.yml" "fugue_cli_windows_package.yml" "fugue_cli_package_aws_adhoc.yml" "fugue_cli_package.yml" "fugue_cli_osx_package.yml" "conductor_create_aws_adhoc.yml" "conductor_create.yml" "cli.log" "buildbox_windows_create.yml" "buildbox_osx_create.yml" "buildbox_create.yml" "bin/" "ansible.log" "ansible.cfg" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/dankerrigan/build_artifacts/bvt/" (21748 54849 0 0) "testing-develop.tgz" "setup_fugue_alpha.py" "setup_fugue_alpha.exe" "python-3.4.x86_64-1.rpm" "podium-0.2.10-1.noarch.rpm" "fugue_windows_develop.msi" "fugue_utils-0.2.9-1.noarch.rpm" "fugue_0.1.1-1_amd64.deb" "fugue-bvt.ubuntu_x64.tgz" "fugue-bvt.redhat_x64.tgz" "fugue-0.1.1-1.x86_64.rpm" "conductor-0.3.3-1.noarch.rpm" "../" "./")
+
+ ("/Users/dankerrigan/build_artifacts/" (21742 9922 0 0) "bvt/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_run/files/" (21751 12667 0 0) "intepret_test_results.py" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/testing_run/" (21751 12667 0 0) "tasks/" "files/" "../" "./")
+
+ ("/Users/dankerrigan/projects/luminal-infrastructure/roles/" (21751 12667 0 0) "wipe_keys/" "windows_working_directories/" "windows_ssh_setup/" "windows_ssh_cleanup/" "windows_ludwig_build/" "windows_fugue_setup_build/" "windows_fugue_cli_package/" "windows_fugue_cli_build/" "windows_development/" "web_publish/" "testing_run/" "testing_provision/" "testing_package/" "ssh_keys_from_credstash/" "ruby/" "rondo_jobs/" "rondo/" "python_package/" "python/" "osx_development/" "ludwig_build/" "linux_working_directories/" "linux_update/" "linux_development/" "linux_common/" "linux_clean_working_directories/" "jenkins_iam_role/" "jenkins/" "haskell/" "golang/" "git/" "fugue_setup_build/" "fugue_cli_package/" "fugue_cli_build/" "credstash/" "conductor_provision/" "conductor_package/" "conductor_build/" "aws_stop_instance/" "aws_start_instance/" "aws_create_ami/" "../" "./")
+
+ ("/Users/" (21637 50765 0 0) "Shared/" "Guest/" "dankerrigan/" ".localized" "../" "./")
+
+ ("/Users/dankerrigan/projects/scratch/haskell/" (21750 34249 0 0) "state_colors.hs" "my_range.hs" "map.hs" "lists.hs" "lazy_fib.hs" "fibs.hs" "factorial.hs" "fact_with_guard.hs" "double_with_type.hs" "double.hs" "all_even.hs" "#state_colors.hs#" "../" "./")
+
+ ("/Users/dankerrigan/projects/scratch/" (21743 55673 0 0) "test_parse.py" "sqs.py" "socket.go" "scratch.py" "scratch.md" "scratch.go" "scheduler2.py" "scheduler.py" "regex.py" "processor.py" "proc_load_test.py" "prep_conductor.sh" "perf_stat_analysis.py" "path.py" "office_schedule.py" "mov2gif.py" "model.py" "haskell/" "foo_param.py" "foo_instances.py" "deploy_conductor.sh" "cs193_01.hs" "composition.json" "clean_conductor.py" "b64decode.py" "__pycache__/" "../" "./")
+
+ ("/Users/dankerrigan/projects/" (21750 3662 0 0) "yosemite.sh" "workflow_activities.graffle" "windows_testing/" "whitelist.py" "whc_comp.json" "viz_notes/" "Untitled.graffle" "ubuntu_test/" "testing_tmp/" "testing_test/" "testing_temp/" "testing_precise/" "testing_load/" "testing_env_back/" "testing_env/" "testing_box/" "testing_bak/" "testing2_env/" "testing.yml" "testing/" "test_packaging/" "test_empty_egress/" "test_comp.ludwig" "summary_stat.py" "stubborn_igw.tar.gz" "stderr_20150128.log" "status_log.log" "skunkworks_working/" "skunkworks_ms/" "skunkworks/" "scratch/" "ruby-build/" "rondo/" "ripley_env/" "ripley/" "requirements.txt" "report.test_runner.TestTest_2014-08-20T16:22:22Z_report.md" "report.test_runner.TestTest_2014-08-20T16:22:22Z_report.json" "release/" "prismatic/" "podium_venv/" "podium.tar.gz" "podium/" "pmc_client_diagram.graffle" "pmc-client.sublime-workspace" "pmc-client.sublime-project" "performer_status.json" "performer_history.json" "papers-we-love/" "packages_fugue_conductor.png" "packages_fugue_botolite.png" "packages_fugue.png" "packages_fugue-develop-conductor.png" "osx_base/" "os10.10base" "onshape_notes/" "OnShape.txt" "onlyone/" "mac_test/" "luminate/" "luminal-website/" "luminal-infrastructure/" "lumibot/" "ludwig-code/" "ludwig/" "logs.tar.gz" "logs/" "local_build_artifacts/" "load_tests/" "linux_base/" "lfmsgcmd.config" "lf_test_env.sh" "lf_test/" "lf_load_test_env.sh" "lf/" "learn_haskell/" "learn-you-a-haskell-kindle/" "jsabo-composition-examples/" "jenkins.yml" "iSL-Delivered/" "iSL/" "ipython/" "immutablish-deploys/" "higherlogic/" "haskell/" "gz/" "groove copy/" "godock/" "go-src/" "go-mode.el/" "fugue_run/" "fugue_env/" "fugue-website/" "fugue-utils.tar.gz" "fugue-utils/" "fugue-src-dek-conduct-config/" "fugue-src-dek-access-improvements/" "fugue-src/" "fugue-setup/" "fugue-new/" "fugue-managed-resources.json" "fugue-hl/" "fugue-event-store.json" "fugue-cli.sublime-workspace" "fugue-cli.sublime-project" "fugue-cli/" "folsen/" "emacs24-starter-kit/" "ELK/" "ec2-user@54.148.22.220" "dynamodb_local_2014-01-08/" "draft_test_report.md" "diagram_conductor.sh" "demo.json" "credstash_env/" "ConductorDebugBootstrap.txt" "conductor_sg_no_delete.log.gz" "conductor_notes/" "conductor_mb/" "conductor_instance_id_no_exit.log.gz" "conductor_foo/" "conductor_env/" "conductor_destroying_lbs.gz" "conductor_dek/" "conductor_agg.log" "conductor.tar.gz" "conductor/" "cond_diff.txt" "composition_working.json" "composition.json" "composition.clef" "composition-examples/" "cli.log" "classes_fugue_conductor.png" "classes_fugue_botolite.png" "classes_fugue.png" "classes_fugue-develop-conductor.png" "chromatic/" "buildbox_env.sh~" "buildbox_env.sh" "build_artifacts/" "botocore/" "aws_cli_stuff/" "ansible_demo/" "angular-seed/" "analysis-env/" "20141122_4/" ".lf_test_env.sh.swp" ".DS_Store" ".bash_profile" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
